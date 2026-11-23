@@ -4,7 +4,7 @@ package com.exemple;
 public class Calculator {
 
     public int addition(int a, int b) {
-        return a - b;
+        return a + b;
     }
 
     public int soustraction(int a, int b) {
